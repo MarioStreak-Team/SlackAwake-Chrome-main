@@ -1,0 +1,32 @@
+{
+  "EXT_NAME": {
+    "message": "Slack Awake - Keep your Slack awake"
+  },
+  "EXT_NAME_SHORT": {
+    "message": "Slack Awake"
+  },
+  "EXT_DESCRIPTION": {
+    "message": "Keep your Slack and display awake whenever you need it or during long downloads."
+  },
+  "ACTIVATE": {
+    "message": "Activate"
+  },
+  "DEACTIVATE": {
+    "message": "Deactivate"
+  },
+  "OPTIONS_SOUNDS": {
+    "message": "Sounds"
+  },
+  "OPTIONS_DISPLAY_SLEEP": {
+    "message": "Allow display to sleep"
+  },
+  "OPTIONS_AUTO_DOWNLOAD": {
+    "message": "Activate while downloading files"
+  },
+  "ACCELERATOR_TOGGLE": {
+    "message": "Ctrl+Shift+S"
+  },
+  "ACCELERATOR_TOGGLE_MAC": {
+    "message": "\u21E7\u2318O"
+  }
+}
